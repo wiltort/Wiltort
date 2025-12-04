@@ -34,9 +34,9 @@
 
 ## 📊 Статистика
 
-[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=Wiltort&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=wiltort&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiltort&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Топ языки](https://github-readme-stats.vercel.app/api/top-langs/?username=wiltort&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Как связаться со мной
 
