@@ -35,7 +35,7 @@
 ## 📊 Статистика
 
 <div align="center">
-  <a href="https://github.com/Almomsk">
+  <a href="https://github.com/wiltort">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wiltort&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wiltort&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
     </a>
