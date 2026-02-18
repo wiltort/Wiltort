@@ -12,10 +12,14 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Базы данных
+### Базы данных и кеширование
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%2523DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Очереди задач и асинхронная обработка
+![Celery](https://img.shields.io/badge/celery-%2523a9cc54.svg?style=for-the-badge&logo=celery&logoColor=white)
 
 ### Тестирование
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
